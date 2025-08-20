@@ -1,2 +1,2 @@
 # house_consumption
-evaluate consumption of water, gas, and energy  
+capture and evaluate consumption of water, gas, and energy  
